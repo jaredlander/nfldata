@@ -1,0 +1,9 @@
+Package: nfldata
+Title: Provides NFL Data
+Version: 0.0.0.9000
+Authors@R: person("Jared", "Lander", email = "packages@jaredlander.com", role = c("aut", "cre"))
+Description: Provides access to the NFL data through the live json feed and scraping its website.  This was inspired by nflscrapR.
+Depends: R (>= 3.3.2)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
